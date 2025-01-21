@@ -23,8 +23,7 @@ torch-sparse==0.6.18
 To train the model(s) in the paper, run this command:
 
 ```train
-cd xxx
-python train.py 
+just run the train.py
 ```
 
 
